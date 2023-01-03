@@ -17,7 +17,7 @@ Mvc Module
 http://localhost:8080/
 
 ## Libraries
-Lombok, OpenAPI, ModelMapper, MapStruct, JWT, Hibernate Validator, MySql Connector J, Spring Security, Spring Data Jpa, Spring Boot Starter Mail, JUnit, Mockito Core, H2 Database.
+Lombok, OpenAPI, ModelMapper, MapStruct, JWT, Hibernate Validator, MySql Connector J, Spring Security, Spring Data Jpa, Spring Web, Spring Mail, Spring Thymeleaf, Spring Devtools, Spring Test, JUnit, Liquibase Core, H2 Database.
 
 ## Contributors
 Arpi Khachatryan,
